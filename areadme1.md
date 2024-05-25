@@ -1,4 +1,4 @@
-# Aman's AI Journal • Interview Questions
+#Interview Questions
 
 *   [Deep Learning](#deep-learning)
     *   [What are some drawbacks of the Transformer?](#what-are-some-drawbacks-of-the-transformer)
